@@ -1,2 +1,4 @@
-# PDISC-TP-FINAL
-Entrega del trabajo final de la materia PDISC 2022
+# PDIS/Proyecto Final/Visor Hexadecimal de Archivos
+Alumno: Gonzalez Juan Ignacio
+# Descripcion:
+La aplicacion permite imprimir la lectura de un archivo de manera hexadecimal utilizando su direccion absoluta

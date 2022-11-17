@@ -1,3 +1,5 @@
+from cProfile import label
+from cgitb import text
 from tkinter import *
 
 ventana = Tk()
